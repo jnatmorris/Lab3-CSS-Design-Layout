@@ -54,3 +54,17 @@ img {
     background-color: cyan;
     border: 5px dashed blue;
 }
+
+h1:hover,
+h2:hover,
+h3:hover,
+p:hover,
+a:hover {
+    background-color: yellow;
+}
+
+/* have to add padding for image to show hover effect for images */
+img:hover {
+    padding: 4px 4px 4px 4px;
+    background-color: yellow;
+}
