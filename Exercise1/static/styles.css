@@ -1,0 +1,28 @@
+body {
+    border: 5px solid green;
+}
+
+h2 {
+    border: 5px solid purple;
+}
+
+.contentDivs {
+    border: 5px solid blue;
+}
+
+#subHeader {
+    border: 5px solid orange;
+}
+
+.inline {
+    display: inline-block;
+    width: fit-content;
+}
+
+img {
+    display: block;
+}
+
+#header {
+    border: 5px solid red;
+}

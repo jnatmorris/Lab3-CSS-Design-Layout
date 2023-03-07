@@ -1,0 +1,42 @@
+body {
+    margin: 0% 10% 0% 10%;
+    background-image: url("../static/img/bg.png");
+}
+
+#container {
+    background-color: white;
+    border: 10px solid white;
+}
+
+h2 {
+    border-bottom: 2px dashed blue;
+}
+
+.contentDivs {
+    border: 4px solid #c2e9e9;
+    background-color: #e8fbfb;
+    padding: 5px 5px 5px 5px;
+    margin: 10px 0px 0px 0px;
+}
+
+#subHeader {
+    font-size: 14px;
+}
+
+.inline {
+    display: inline-block;
+    width: fit-content;
+}
+
+img {
+    float: right;
+}
+
+#header {
+    text-align: right;
+    background-color: #a8f0f0;
+}
+
+.containerOverflow {
+    overflow: auto;
+}
